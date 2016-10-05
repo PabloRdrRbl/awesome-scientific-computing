@@ -23,6 +23,7 @@
 - [Machine Learnig](#machine-learnig)
 - [Control Systems](#control-systems)
 - [Marine Engineering](#marine-engineering)
+- [Finite Element Method](#finite-element-method)
 
 - - -
 
@@ -137,6 +138,17 @@
 ### Software Tools
 
 - [FreeCAD-Ship](https://jlcercos.wordpress.com/freecad-ship-en/) -  FreeCAD module to provide a complete set of naval architect tools. ![Open-Source Software][OSS Icon]
+
+
+##  Finite Element Method
+
+### Software  Tools
+
+- [Hermes hp-FEM](http://www.hpfem.org/hermes/) - C++ library for rapid development of adaptive hp-FEM / hp-DG solvers. Novel hp-adaptivity algorithms help solve a large variety of problems ranging from ODE and stationary linear PDE to complex time-dependent nonlinear multiphysics PDE systems.  ![Open-Source Software][OSS Icon]
+- [ONELAB](http://onelab.info/wiki/ONELAB) - (Open Numerical Engineering LABoratory) Lightweight interface to finite element software. ![Open-Source Software][OSS Icon]
+- [Gmsh](http://gmsh.info) - A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. ![Open-Source Software][OSS Icon]
+- [DetDP](http://getdp.info) - A General Environment for the Treatment of Discrete Problems.  ![Open-Source Software][OSS Icon]
+- [Elmer](https://www.csc.fi/web/elmer) - Multiphysical simulation software.  includes physical models of fluid dynamics, structural mechanics, electromagnetics, heat transfer and acoustics, for example. These are described by partial differential equations which Elmer solves by the Finite Element Method (FEM). ![Open-Source Software][OSS Icon]
 
 
 **[⬆ back to top](#table-of-contents)**
